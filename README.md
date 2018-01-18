@@ -1,6 +1,6 @@
 # vue2-res
 
-> A Vue.js project
+> Initialize a Vue.js project
 
 ## Introduce
 If you do not have a vue-cli command line tool, you can clone the code directly and perform npm install and you can initialize a vue project.
